@@ -2,3 +2,10 @@ Este es un ejemplo para hacer commit y pull y todo lo que haga falta para
 practicar git jejejejejejeje
 
 prueba para el push
+
+<mirror>
+      <id>mirror1</id>
+      <mirrorOf>central</mirrorOf>
+      <name>mirror1</name>
+      <url>https://repo.maven.apache.org/maven2/</url>
+    </mirror>
